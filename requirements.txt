@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+pdfplumber
+tiktoken
+weasyprint>=58.0
+pdfplumber>=0.10.0
+langchain-google-genai>=0.0.14
+streamlit>=1.32.0
+faiss-cpu>=1.7.4
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+fpdf2>=2.7.5
